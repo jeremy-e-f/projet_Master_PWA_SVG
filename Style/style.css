@@ -1,0 +1,104 @@
+.image_mini_ban{
+	width: 133px;
+	height: 100px
+}
+
+#baniere{
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 10px; 
+	width: 800px;
+	height: 50px;
+	background-image: url("../Image/baniere.png");
+}
+
+#foot{
+	float: left;
+	margin: auto;
+	margin-top: 20px;
+	width: 800px;
+	height: 30px;
+}
+
+#rect{
+	background-image: url("../Image/rect.png");
+}
+
+#circ{
+	background-image: url("../Image/circ.png");
+}
+
+#ellips{
+	background-image: url("../Image/ellips.png");
+}
+
+#line{
+	background-image: url("../Image/line.png");
+}
+
+#polyline{
+	background-image: url("../Image/polyline.png");
+}
+
+#polygone{
+	background-image: url("../Image/polygone.png");
+}
+
+body{
+	background-color: #F8F8FF;
+}
+
+#corps{
+	padding-left: 30px;
+	padding-right: 30px; 
+}
+
+#panel{
+	padding-right: 20px;
+	float: left;
+	width: 400px;
+}
+
+#image{
+	float: left;
+	border-style: solid;
+	border-color: #778899;
+	background-color: #FFFFFF; 
+}
+
+#statut{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#list_figure{
+	float: left;
+}
+
+#liste_figures{
+	text-align: center;
+}
+
+.figure{
+	border-style: ridge;
+}
+
+.champ{
+	width: 100px; 
+}
+
+.bouton_menu{
+	float: right;
+}
+
+.title{
+	font-size: 20px;
+}
+
+.obligatoire{
+	background-color: #FFE4C4;
+}
+
+.facultatif{
+	border-color: green;
+}
